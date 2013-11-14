@@ -28,11 +28,11 @@
 <!--                </button>-->
             </div>
 
-            <a class="navbar-brand" href="#">Страничка Бормана</a>
+            <a class="navbar-brand" href="/">Страничка Бормана</a>
         </div>
         <div class="collapse navbar-collapse">
             <ul class="nav navbar-nav">
-                <li class="activ"><a href="/">Рассчет Пифагора</a></li>
+                <li class="activ"><a href="piphagor.php">Рассчет Пифагора</a></li>
                 <li><a href="game_number.php">Угадай число</a></li>
                 <li><a href="multiply_game.php">Умножение чисел</a></li>
                 <li><a href="teorema.php">Решение квадратных уравнений</a></li>

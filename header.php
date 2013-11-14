@@ -13,6 +13,7 @@
             $('.datapicker').datepicker({dateFormat:'d.mm.yy'})
         });
     </script>
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
 </head>
 
 
